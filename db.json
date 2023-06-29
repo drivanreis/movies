@@ -57,6 +57,15 @@
       "storyline": "sdfsdfs",
       "rating": "3.5",
       "id": 6
+    },
+    {
+      "title": "Alien_1",
+      "subtitle": " O Oitavo passageiro",
+      "imagePath": "images/alien_1_o_oitavo_passageiro_1979_1080p.png",
+      "storyline": "Alien - O Oitavo passageiro",
+      "genre": "thriller",
+      "rating": "10",
+      "id": 7
     }
   ]
 }
