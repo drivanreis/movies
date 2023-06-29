@@ -9,7 +9,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={ <MovieList /> } />
+        <Route path="/movies" element={ <MovieList /> } />
         <Route path="/movies/new" element={ <NewMovie /> } />
         <Route path="/movies/:movieId/edit" element={ <EditMovie /> } />
         <Route path="/movies/:movieId" element={ <MovieDetails /> } />

@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "title": "Titanic",
+      "title": "Titanic 2",
       "subtitle": "",
       "storyline": "Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornada do Titanic, em 1912. Embora esteja noiva do arrogante herdeiro de uma siderúrgica, a jovem desafia sua família e amigos em busca do verdadeiro amor.",
       "rating": 4.5,
@@ -25,7 +25,7 @@
       "title": "Jurassic Park",
       "subtitle": "O Parque dos Dinossauros",
       "storyline": "Um parque construído por um milionário tem dinossauros diversos como habitantes, extintos a sessenta e cinco milhões de anos. Isto é possível por ter sido encontrado um inseto fossilizado, que tinha sugado sangue destes dinossauros, de onde pôde-se isolar o DNA, o código químico da vida e, a partir deste ponto, recriá-los em laboratório. Mas, o que parecia ser um sonho se torna um pesadelo, quando a experiência sai do controle de seus criadores.",
-      "rating": 5,
+      "rating": "5.2",
       "imagePath": "images/jurassic-park.jpeg",
       "bookmarked": false,
       "genre": "aventura"
