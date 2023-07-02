@@ -25,7 +25,7 @@ function MovieDetails() {
   return (
     <div className="details-container">
       <header>
-        <img alt="Movie Cover" src={ `../${movie?.imagePath}` } />
+        <img alt="Movie Cover" src={ `../movies/${movie?.imagePath}` } />
       </header>
       <h1 className="card-title">
         {movie?.title}
@@ -41,7 +41,7 @@ function MovieDetails() {
 
       <div className="card-action">
         <Link to={ `/movies/${movieId}/edit` }>Editar </Link>
-        <Link to="/movies">Voltar</Link>
+        <Link to="/movies/">Voltar</Link>
       </div>
 
     </div>

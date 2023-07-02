@@ -2,7 +2,7 @@
   "movies": [
     {
       "id": 1,
-      "title": "Gladiador 2",
+      "title": "Gladiador 4",
       "subtitle": "Teste 01",
       "storyline": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar pública sua predileção em deixar o trono para Maximus, o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano.",
       "rating": "4.9",
@@ -68,7 +68,7 @@
       "id": 7
     },
     {
-      "title": "16 Quadras",
+      "title": "16 Quadras 2",
       "subtitle": "Bruce Willis",
       "imagePath": "images/16_quadras_2006_1080p.png",
       "storyline": "kjhjghln kljshuisg sdgfdfs dsfgdfg",
@@ -82,6 +82,14 @@
       "storyline": "gdfgdfg dgfdfg dfgdf",
       "rating": "5",
       "id": 9
+    },
+    {
+      "title": "Alien_2",
+      "subtitle": " O 9º passageiro",
+      "imagePath": "images/alien_2.png",
+      "storyline": "fdsfs sdfss sdfdfhfgh hgjgh",
+      "rating": "4",
+      "id": 10
     }
   ]
 }

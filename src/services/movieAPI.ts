@@ -1,6 +1,6 @@
 import { Movie } from '../types/movieType';
 
-const baseURL = 'http://localhost:5000';
+const baseURL = 'http://localhost:8080';
 
 export const getMovies = async () => {
   const response = await fetch(`${baseURL}/movies`, {

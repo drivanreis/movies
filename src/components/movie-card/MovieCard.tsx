@@ -15,7 +15,7 @@ function MovieCard({ movie: { id, title, storyline, imagePath } }: MovieCardProp
             <img
               alt="Movie Cover"
               className="movie-card-image"
-              src={ imagePath }
+              src={ `../movies/${imagePath}` }
               width="200s"
             />
             <h2 className="card-title">{title}</h2>
