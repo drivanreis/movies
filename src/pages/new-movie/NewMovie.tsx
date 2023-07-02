@@ -14,7 +14,7 @@ function NewMovie() {
   };
 
   if (shouldRedirect) {
-    return <Navigate to="/" />;
+    return <Navigate to="/movies" />;
   }
 
   return (

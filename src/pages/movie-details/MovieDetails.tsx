@@ -41,7 +41,7 @@ function MovieDetails() {
 
       <div className="card-action">
         <Link to={ `/movies/${movieId}/edit` }>Editar </Link>
-        <Link to="/movies/">Voltar</Link>
+        <Link to="/movies">Voltar</Link>
       </div>
 
     </div>
